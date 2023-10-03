@@ -3,9 +3,9 @@
 <div align = "center">
 <br/><h3>Hello I'm Blanc 🥸</h3><br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-blanc/)](https://www.linkedin.com/in/iam-blanc/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://ilikezzi.tistory.com/)](https://ilikezzi.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:topblade6@gmail.com)](mailto:topblade6@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-blanc/)](https://www.linkedin.com/in/iam-blanc/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ilikezzi.tistory.com/)](https://ilikezzi.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:topblade6@gmail.com)](mailto:topblade6@gmail.com)
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooseungmo&count_bg=%234EB2E5&title_bg=%23006DAA&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
