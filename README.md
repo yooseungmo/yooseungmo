@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
  
 <div align = "center">
-<br/><h3>Hello I'm Blanc 🥸</h3><br/> 
+<br/><h3>Hello I'm Blanc 🥸</h3><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-blanc/)](https://www.linkedin.com/in/iam-blanc/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ilikezzi.tistory.com/)](https://ilikezzi.tistory.com/)
