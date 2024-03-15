@@ -35,9 +35,9 @@
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/asana-F06A6A?style=flat&logo=asana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudwatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+
 
 </div>
 
