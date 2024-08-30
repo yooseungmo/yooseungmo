@@ -22,21 +22,16 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dynamodb-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudwatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 
 
 </div>
